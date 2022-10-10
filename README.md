@@ -4,6 +4,10 @@ A detailed description (Chinese Simplified, Chinese Traditional) of most of the 
 
 This repository is about my Course Materials for HKUST BDT 22fall.
 
+**NOTE:** All of the files in this repository is just for **STUDY AND COMMUNICATION**. Please **DON'T JUST COPY THIS ANSWER WITHOUT ANY CHANGES**, because all of the homework submitted will have a similarity score on canvas.
+
+**注意：** 所有材料仅供学习与交流，不要直接抄答案，canvas有查重系统。
+
 Content:
 
 - MSBD 5001
@@ -26,5 +30,5 @@ Content:
   - [Programming 2 (Backprop)](https://github.com/Apple1203/BDT22fall/blob/main/bdt-upload/5012%20Machine%20Learning/programming/2/ha2-backprop.docx), [Solution](https://github.com/Apple1203/BDT22fall/blob/main/bdt-upload/5012%20Machine%20Learning/programming/1/programming-assignment2.py) (Due Oct. 7th)
 
 - [MSBD 5016](https://home.cse.ust.hk/~cktang/msbd5016/Password_Only/programs/index.html)
-  - Homework 1 Solution (Due Sep. 24th, Grade 90+10/100)
+  - [Homework 1 Solution](https://github.com/Apple1203/BDT22fall/blob/main/bdt-upload/5016%20Deep%20Learning%20in%20Computer%20Vision/assignment1.zip) (Due Sep. 24th, Grade 90+10/100)
   - Homework 2 Solution (Due Oct. 15th)
