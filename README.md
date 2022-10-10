@@ -8,6 +8,8 @@ This repository is about my Course Materials for HKUST BDT 22fall.
 
 **注意：** 所有材料仅供学习与交流，不要直接抄答案，canvas有查重系统。
 
+If you are **a UST student** and want the template I used in the homework (5012, etc.), please send me an email and I'll share the latex/powerpoint template to you.
+
 Content:
 
 - MSBD 5001
