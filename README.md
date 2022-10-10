@@ -12,8 +12,8 @@ Content:
   - Final Report (Due Nov. 30th)
 
 - MSBD 5004
-  - Homework 1, Solution (Due Sep. 30th, Grade 100/100)
-  - Homework 2, Solution (Due Oct. 14th)
+  - [Homework 1](https://github.com/Apple1203/BDT22fall/blob/main/bdt-upload/5004%20Mathematical%20Methods%20for%20Data%20Analysis/HW1.pdf), [Solution](https://github.com/Apple1203/BDT22fall/blob/main/bdt-upload/5004%20Mathematical%20Methods%20for%20Data%20Analysis/HW1-solution.pdf) (Due Sep. 30th, Grade 100/100)
+  - [Homework 2](https://github.com/Apple1203/BDT22fall/blob/main/bdt-upload/5004%20Mathematical%20Methods%20for%20Data%20Analysis/HW2.pdf), Solution (Due Oct. 14th)
   
   
 - [MSBD 5006](https://www.math.hkust.edu.hk/~maling/)
