@@ -20,10 +20,10 @@ Content:
   - [Homework 1](https://github.com/Apple1203/BDT22fall/blob/main/bdt-upload/5006%20Quatitative%20Analysis%20of%20Financial%20Time%20Seires/Assignment1.pdf), Solution (Due Oct. 18th)
   
 - [MSBD 5012](https://cse.hkust.edu.hk/~lzhang/teach/msbd5012/)
-  - Homework 1, Solution (Due Oct. 1st)
-  - Homework 2, Solution (Due Oct. 14th)
-  - Programming 1 (Softmax), Solution (Due Sep. 30th)
-  - Programming 2 (Backprop), Solution (Due Oct. 7th)
+  - [Homework 1](https://github.com/Apple1203/BDT22fall/blob/main/bdt-upload/5012%20Machine%20Learning/homework/hw1.pdf), [Solution](https://github.com/Apple1203/BDT22fall/blob/main/bdt-upload/5012%20Machine%20Learning/homework/UST_ML_HW1_SOLUTION.pdf) (Due Oct. 1st)
+  - [Homework 2](https://github.com/Apple1203/BDT22fall/blob/main/bdt-upload/5012%20Machine%20Learning/homework/hw2.pdf), [Solution](https://github.com/Apple1203/BDT22fall/blob/main/bdt-upload/5012%20Machine%20Learning/homework/UST_ML_HW2_SOLUTION.pdf) (Due Oct. 14th)
+  - [Programming 1 (Softmax)](https://github.com/Apple1203/BDT22fall/blob/main/bdt-upload/5012%20Machine%20Learning/programming/1/ha1.docx), [Solution](https://github.com/Apple1203/BDT22fall/blob/main/bdt-upload/5012%20Machine%20Learning/programming/1/programming-assignment1.py) (Due Sep. 30th)
+  - [Programming 2 (Backprop)](https://github.com/Apple1203/BDT22fall/blob/main/bdt-upload/5012%20Machine%20Learning/programming/2/ha2-backprop.docx), [Solution](https://github.com/Apple1203/BDT22fall/blob/main/bdt-upload/5012%20Machine%20Learning/programming/1/programming-assignment2.py) (Due Oct. 7th)
 
 - [MSBD 5016](https://home.cse.ust.hk/~cktang/msbd5016/Password_Only/programs/index.html)
   - Homework 1 Solution (Due Sep. 24th, Grade 90+10/100)
