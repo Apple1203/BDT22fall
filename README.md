@@ -17,7 +17,7 @@ Content:
   
   
 - [MSBD 5006](https://www.math.hkust.edu.hk/~maling/)
-  - Homework 1, Solution (Due Oct. 18th)
+  - [Homework 1](https://github.com/Apple1203/BDT22fall/blob/main/bdt-upload/5006%20Quatitative%20Analysis%20of%20Financial%20Time%20Seires/Assignment1.pdf), Solution (Due Oct. 18th)
   
 - [MSBD 5012](https://cse.hkust.edu.hk/~lzhang/teach/msbd5012/)
   - Homework 1, Solution (Due Oct. 1st)
