@@ -13,7 +13,7 @@ If you are **a UST student** and want the template I used in the homework (5012,
 Content:
 
 - MSBD 5001
-  - [Project Slides](https://github.com/Apple1203/BDT22fall/blob/main/bdt-upload/5001%20Foundations%20of%20Data%20Analytics/5001proj-1stedition.pdf) (Proposal Presentation, Due Oct. 13th)
+  - [Project Slides](https://github.com/Apple1203/BDT22fall/blob/main/bdt-upload/5001%20Foundations%20of%20Data%20Analytics/5001proj_final.pdf) (Proposal Presentation, Due Oct. 13th)
   - Progress presentation (Due Nov. 17th)
   - Final Report (Due Nov. 30th)
 
