@@ -19,7 +19,7 @@ Content:
 
 - MSBD 5004
   - [Homework 1](https://github.com/Apple1203/BDT22fall/blob/main/bdt-upload/5004%20Mathematical%20Methods%20for%20Data%20Analysis/HW1.pdf), [Solution](https://github.com/Apple1203/BDT22fall/blob/main/bdt-upload/5004%20Mathematical%20Methods%20for%20Data%20Analysis/HW1-solution.pdf) (Due Sep. 30th, Grade 100/100)
-  - [Homework 2](https://github.com/Apple1203/BDT22fall/blob/main/bdt-upload/5004%20Mathematical%20Methods%20for%20Data%20Analysis/HW2.pdf), [Solution](https://github.com/Apple1203/BDT22fall/blob/main/bdt-upload/5004%20Mathematical%20Methods%20for%20Data%20Analysis/HW2-solution.pdf) (Due Oct. 14th)
+  - [Homework 2](https://github.com/Apple1203/BDT22fall/blob/main/bdt-upload/5004%20Mathematical%20Methods%20for%20Data%20Analysis/HW2.pdf), [Solution](https://github.com/Apple1203/BDT22fall/blob/main/bdt-upload/5004%20Mathematical%20Methods%20for%20Data%20Analysis/HW2-solution.pdf) (Due Oct. 14th, Grade 100/100)
   
   
 - [MSBD 5006](https://www.math.hkust.edu.hk/~maling/)
