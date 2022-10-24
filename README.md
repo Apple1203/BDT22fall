@@ -24,7 +24,7 @@ Content:
   
   
 - [MSBD 5006](https://www.math.hkust.edu.hk/~maling/)
-  - [Homework 1](https://github.com/Apple1203/BDT22fall/blob/main/bdt-upload/5006%20Quatitative%20Analysis%20of%20Financial%20Time%20Seires/Assignment1.pdf), [Solution](https://github.com/Apple1203/BDT22fall/blob/main/bdt-upload/5006%20Quatitative%20Analysis%20of%20Financial%20Time%20Seires/Assignment 1 Solution.pdf) (Due Oct. 18th, Grade 100/100)
+  - [Homework 1](https://github.com/Apple1203/BDT22fall/blob/main/bdt-upload/5006%20Quatitative%20Analysis%20of%20Financial%20Time%20Seires/Assignment1.pdf), [Solution](https://github.com/Apple1203/BDT22fall/blob/main/bdt-upload/5006%20Quatitative%20Analysis%20of%20Financial%20Time%20Seires/Assignment%201%20Solution.pdf) (Due Oct. 18th, Grade 100/100)
   
 - [MSBD 5012](https://cse.hkust.edu.hk/~lzhang/teach/msbd5012/)
   - [Homework 1](https://github.com/Apple1203/BDT22fall/blob/main/bdt-upload/5012%20Machine%20Learning/homework/hw1.pdf), [Solution](https://github.com/Apple1203/BDT22fall/blob/main/bdt-upload/5012%20Machine%20Learning/homework/UST_ML_HW1_SOLUTION.pdf) (Due Oct. 1st)
