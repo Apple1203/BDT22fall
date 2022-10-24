@@ -14,6 +14,7 @@ Content:
 
 - MSBD 5001
   - [Project Slides](https://github.com/Apple1203/BDT22fall/blob/main/bdt-upload/5001%20Foundations%20of%20Data%20Analytics/5001proj_final.pdf) (Proposal Presentation, Due Oct. 13th)
+  - Assignment 1 Solution (Due Nov. 5th)
   - Progress presentation (Due Nov. 17th)
   - Final Report (Due Nov. 30th)
 
@@ -23,16 +24,17 @@ Content:
   
   
 - [MSBD 5006](https://www.math.hkust.edu.hk/~maling/)
-  - [Homework 1](https://github.com/Apple1203/BDT22fall/blob/main/bdt-upload/5006%20Quatitative%20Analysis%20of%20Financial%20Time%20Seires/Assignment1.pdf), Solution (Due Oct. 18th)
+  - [Homework 1](https://github.com/Apple1203/BDT22fall/blob/main/bdt-upload/5006%20Quatitative%20Analysis%20of%20Financial%20Time%20Seires/Assignment1.pdf), [Solution](https://github.com/Apple1203/BDT22fall/blob/main/bdt-upload/5006%20Quatitative%20Analysis%20of%20Financial%20Time%20Seires/Assignment 1 Solution.pdf) (Due Oct. 18th, Grade 100/100)
   
 - [MSBD 5012](https://cse.hkust.edu.hk/~lzhang/teach/msbd5012/)
   - [Homework 1](https://github.com/Apple1203/BDT22fall/blob/main/bdt-upload/5012%20Machine%20Learning/homework/hw1.pdf), [Solution](https://github.com/Apple1203/BDT22fall/blob/main/bdt-upload/5012%20Machine%20Learning/homework/UST_ML_HW1_SOLUTION.pdf) (Due Oct. 1st)
   - [Homework 2](https://github.com/Apple1203/BDT22fall/blob/main/bdt-upload/5012%20Machine%20Learning/homework/hw2.pdf), [Solution](https://github.com/Apple1203/BDT22fall/blob/main/bdt-upload/5012%20Machine%20Learning/homework/UST_ML_HW2_SOLUTION.pdf) (Due Oct. 14th)
   - [Homework 3](https://github.com/Apple1203/BDT22fall/blob/main/bdt-upload/5012%20Machine%20Learning/homework/hw3.pdf), Solution (Due Nov. 11th)
   - [Programming 1 (Softmax)](https://github.com/Apple1203/BDT22fall/blob/main/bdt-upload/5012%20Machine%20Learning/programming/1/ha1.docx), [Solution](https://github.com/Apple1203/BDT22fall/blob/main/bdt-upload/5012%20Machine%20Learning/programming/1/programming-assignment1.py) (Due Sep. 30th)
-  - [Programming 2 (Backprop)](https://github.com/Apple1203/BDT22fall/blob/main/bdt-upload/5012%20Machine%20Learning/programming/2/ha2-backprop.docx), [Solution](https://github.com/Apple1203/BDT22fall/blob/main/bdt-upload/5012%20Machine%20Learning/programming/1/programming-assignment2.py) (Due Oct. 7th)
-  - Programming 3 (CNN1) Report (Due Oct. 21st)
-  - Programming 4 (CNN2) Report (Due Oct. 21st)
+  - [Programming 2 (Backprop)](https://github.com/Apple1203/BDT22fall/blob/main/bdt-upload/5012%20Machine%20Learning/programming/2/ha2-backprop.docx), [Solution](https://github.com/Apple1203/BDT22fall/blob/main/bdt-upload/5012%20Machine%20Learning/programming/2/programming-assignment2.py) (Due Oct. 7th)
+  - [Programming 3 (CNN1) Report](https://github.com/Apple1203/BDT22fall/blob/main/bdt-upload/5012%20Machine%20Learning/programming/3/HA3.pdf) (Due Oct. 21st)
+  - [Programming 4 (CNN2) Report](https://github.com/Apple1203/BDT22fall/blob/main/bdt-upload/5012%20Machine%20Learning/programming/4/HA4.pdf) (Due Oct. 21st)
+  - Programming 5 (BERT) Report (Due Oct. 28th)
 
 - [MSBD 5016](https://home.cse.ust.hk/~cktang/msbd5016/Password_Only/programs/index.html)
   - [Homework 1 Solution](https://github.com/Apple1203/BDT22fall/blob/main/bdt-upload/5016%20Deep%20Learning%20in%20Computer%20Vision/assignment1.zip) (Due Sep. 24th, Grade 90+10/100)
