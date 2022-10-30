@@ -41,4 +41,5 @@ Content:
 - [MSBD 5016](https://home.cse.ust.hk/~cktang/msbd5016/Password_Only/programs/index.html)
   - [Homework 1 Solution](https://github.com/Apple1203/BDT22fall/blob/main/bdt-upload/5016%20Deep%20Learning%20in%20Computer%20Vision/assignment1.zip) (Due Sep. 24th, Grade 90+extra10/100)
   - [Homework 2 Solution](https://github.com/Apple1203/BDT22fall/blob/main/bdt-upload/5016%20Deep%20Learning%20in%20Computer%20Vision/Assignment2.zip) (Due Oct. 15th)
+  - [Proposal](https://github.com/Apple1203/BDT22fall/blob/main/bdt-upload/5016%20Deep%20Learning%20in%20Computer%20Vision/Proposal.pdf)
   - Homework 3 Solution (Due Nov. 5th)
