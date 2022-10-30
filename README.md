@@ -25,6 +25,7 @@ Content:
   
 - [MSBD 5006](https://www.math.hkust.edu.hk/~maling/)
   - [Homework 1](https://github.com/Apple1203/BDT22fall/blob/main/bdt-upload/5006%20Quatitative%20Analysis%20of%20Financial%20Time%20Seires/Assignment1.pdf), [Solution](https://github.com/Apple1203/BDT22fall/blob/main/bdt-upload/5006%20Quatitative%20Analysis%20of%20Financial%20Time%20Seires/Assignment%201%20Solution.pdf) (Due Oct. 18th, Grade 100/100)
+  - [Homework 2](https://github.com/Apple1203/BDT22fall/blob/main/bdt-upload/5006%20Quatitative%20Analysis%20of%20Financial%20Time%20Seires/Assignment2.pdf), Solution (Due Nov. 8th)
   
 - [MSBD 5012](https://cse.hkust.edu.hk/~lzhang/teach/msbd5012/)
   - [Homework 1](https://github.com/Apple1203/BDT22fall/blob/main/bdt-upload/5012%20Machine%20Learning/homework/hw1.pdf), [Solution](https://github.com/Apple1203/BDT22fall/blob/main/bdt-upload/5012%20Machine%20Learning/homework/UST_ML_HW1_SOLUTION.pdf) (Due Oct. 1st)
@@ -34,7 +35,8 @@ Content:
   - [Programming 2 (Backprop)](https://github.com/Apple1203/BDT22fall/blob/main/bdt-upload/5012%20Machine%20Learning/programming/2/ha2-backprop.docx), [Solution](https://github.com/Apple1203/BDT22fall/blob/main/bdt-upload/5012%20Machine%20Learning/programming/2/programming-assignment2.py) (Due Oct. 7th)
   - [Programming 3 (CNN1) Report](https://github.com/Apple1203/BDT22fall/blob/main/bdt-upload/5012%20Machine%20Learning/programming/3/HA3.pdf) (Due Oct. 21st)
   - [Programming 4 (CNN2) Report](https://github.com/Apple1203/BDT22fall/blob/main/bdt-upload/5012%20Machine%20Learning/programming/4/HA4.pdf) (Due Oct. 21st)
-  - Programming 5 (BERT) Report (Due Oct. 28th)
+  - [Programming 5 (BERT) Report](https://github.com/Apple1203/BDT22fall/blob/main/bdt-upload/5012%20Machine%20Learning/programming/5/HA5.pdf) (Due Oct. 28th)
+  - Programming 6 Report (Due Nov. 5th)
 
 - [MSBD 5016](https://home.cse.ust.hk/~cktang/msbd5016/Password_Only/programs/index.html)
   - [Homework 1 Solution](https://github.com/Apple1203/BDT22fall/blob/main/bdt-upload/5016%20Deep%20Learning%20in%20Computer%20Vision/assignment1.zip) (Due Sep. 24th, Grade 90+extra10/100)
