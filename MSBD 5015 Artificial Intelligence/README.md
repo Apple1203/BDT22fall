@@ -14,9 +14,6 @@
 
 - Grading Scheme: -
 
-- Course Description
-
--
-
+- Course Description: -
 
 - Overall Workload: -
