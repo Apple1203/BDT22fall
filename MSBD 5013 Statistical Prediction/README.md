@@ -20,18 +20,18 @@
 
 - Syllabus
 
-    - Lecture 1. Overview of Statistical machine learning. [lecture note]
+    - Lecture 1. Overview of Statistical machine learning.
+    
+    - Lecture 2. Linear models. 
 
-    - Lecture 2. Linear models. [lecture note]
+    - Lecture 3. Classification. 
 
-    - Lecture 3. Classification. [lecture note]
+    - Lecture 4. Resampling. 
 
-    - Lecture 4. Resampling. [lecture note]
+    - Lecture 5. Model selection and Regularization. 
 
-    - Lecture 5. Model selection and Regularization. [lecture note]
+    - Lecture 6. Algorithm. 
 
-    - Lecture 6. Algorithm. [lecture note]
-
-    - Lecture 7. Tree-based methods. [lecture note]
+    - Lecture 7. Tree-based methods.
 
 - Overall Workload: 4 assignments and final exam.
