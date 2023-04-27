@@ -16,6 +16,6 @@
 
 - Course Description
 
-Same as Stanford CS231n.
+Same as Stanford [CS231n](https://cs231n.github.io/).
 
 - Overall Workload: 3 assignments, proposal, proposal presentation, final presentation, final report, and final exam.
